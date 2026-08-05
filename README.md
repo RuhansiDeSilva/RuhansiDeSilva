@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ruhansi De Silva</h1>
-<h3 align="center">IT Student @ SLIIT | Exploring Code, Projects & Innovations</h3>
+<h3 align="center">Data Science Student @ SLIIT | Exploring Code, Projects & Innovations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhansidesilva&label=Profile%20views&color=0e75b6&style=flat" alt="ruhansidesilva" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruhansidesilva" alt="ruhansidesilva" /></a> </p>
 
-- 📫 How to reach me **Ruhansisasithma@gmail.com**
+- 📫 How to reach me **ruhansisasithma@gmail.com**
+- Linkedin - **https://www.linkedin.com/in/ruhansi-de-silva-40422934a/**
 
 - ⚡ Fun fact **call me as Ruhansi**
 
